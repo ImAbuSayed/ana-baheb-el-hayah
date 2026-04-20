@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور قلبي في كل مكان
+> أنت حياتي وكل الزمان
+> عيونك تسحرني مثل الخيال
+> روحي تنادي لك في كل حال
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
