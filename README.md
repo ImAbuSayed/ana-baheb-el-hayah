@@ -1,5 +1,9 @@
 # Ana Baheb El Hayah
 
+![Ana Baheb El Hayah feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/ana-baheb-el-hayah/feature/20260422164323-ChatGPT-Image-Apr-22-2026-10_41_50-PM.png)
+
+---
+
 **An original song written and composed by [Abu Sayed](https://abusayed.com.bd/)**
 
 ---
@@ -8,11 +12,12 @@
 
 | Field | Details |
 |-------|---------|
-| 🎵 **Title** | Ana Baheb El Hayah |
-| ✍️ **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| 📅 **Date Written** | April 20, 2026 |
-| 📜 **License** | [View License](./LICENSE.md) |
-| 🎤 **Artist** | Abu Sayed |
+| Title | Ana Baheb El Hayah |
+| Written By | [Abu Sayed](https://abusayed.com.bd/) |
+| Lyric Writing Date | April 20, 2026 |
+| Song Creation Date | April 22, 2026 |
+| License | [View License](./LICENSE.md) |
+| Artist | Abu Sayed |
 
 ---
 
@@ -24,7 +29,13 @@
 > روحي تنادي لك في كل حال
 > ...
 
-📄 **[View Full Lyrics →](./lyrics.txt)**
+[View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [Music](https://suno.com/song/c71b3f0c-b6a1-41b6-adc3-34a554218cd4)
 
 ---
 
@@ -34,8 +45,8 @@ Abu Sayed is a multi-disciplinary creator, musician, and developer.
 He is the founder of [Vibe Tool](https://vibetool.org/) and a prolific songwriter
 whose music spans Bangla, Hindi, Arabic, Punjabi, and English.
 
-🌐 **Website:** [abusayed.com.bd](https://abusayed.com.bd/)
-📧 **Contact:** [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd)
+Website: [abusayed.com.bd](https://abusayed.com.bd/)
+Contact: [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd)
 
 ### Listen on Streaming Platforms
 
@@ -53,11 +64,38 @@ whose music spans Bangla, Hindi, Arabic, Punjabi, and English.
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](http://tiktok.com/@imabusayed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imabusayed/)
 
+### Full Platform Links
+
+| Platform | Link |
+|----------|------|
+| Website | [abusayed.com.bd](https://abusayed.com.bd/) |
+| Email | [hi@abusayed.com.bd](mailto:hi@abusayed.com.bd) |
+| Spotify | [Open Spotify](https://open.spotify.com/artist/6vnjuWLcV3nHwIFeozztMv) |
+| Apple Music | [Open Apple Music](https://music.apple.com/ae/artist/abu-sayed/1622976966) |
+| YouTube | [YouTube Channel](https://www.youtube.com/@AbuSayedMusic) |
+| Artist Official | [Facebook Profile](https://www.facebook.com/AbuSayed.TheCultOfPersonality/) |
+| Record Label | [Facebook Page](https://facebook.com/AbuSayedMusic) |
+| Instagram | [Instagram](https://instagram.com/AbuSayedMusic) |
+| X / Twitter | [X Profile](https://x.com/AbuSayedMusic) |
+| TikTok | [TikTok](http://tiktok.com/@imabusayed) |
+| Amazon Music | [Amazon Music](https://music.amazon.com/artists/B09X1N1F6F/abu-sayed) |
+| Deezer | [Deezer](https://www.deezer.com/en/artist/165449477) |
+| LinkedIn | [LinkedIn](https://linkedin.com/in/imabusayed/) |
+| GitHub | [GitHub](https://github.com/ImAbuSayed) |
+| Lyrics | [Musixmatch Artist](https://www.musixmatch.com/artist/Abu-Sayed-5) |
+| Boomplay | [Boomplay](https://www.boomplay.com/artists/46131891) |
+| Shazam | [Shazam](https://www.shazam.com/artist/abu-sayed/1622976966) |
+| IMDB | [IMDB](https://www.imdb.com/name/nm13702115/) |
+| Genius | [Genius](https://genius.com/artists/Abu-sayed) |
+| LyricFind | [LyricFind](https://lyricsondemand.com/abu_sayed) |
+| Musixmatch | [Creator](https://www.musixmatch.com/creator/Abu-Sayed-6) |
+| Buy Me a Coffee | [Support Abu Sayed](https://buymeacoffee.com/imsayed) |
+
 ---
 
 ## Copyright Notice
 
-© 2026 Abu Sayed. All Rights Reserved.
+Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
 This song is an original creative work by Abu Sayed.
 All lyrics, melody, and composition rights are retained by the author.
@@ -65,4 +103,4 @@ See [LICENSE.md](./LICENSE.md) for full terms.
 
 ---
 
-*🎵 Written with love by Abu Sayed · [abusayed.com.bd](https://abusayed.com.bd/)*
+*Written by Abu Sayed · [abusayed.com.bd](https://abusayed.com.bd/)*
