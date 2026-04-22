@@ -33,12 +33,6 @@
 
 ---
 
-## Song Links
-
-- [Music](https://suno.com/song/c71b3f0c-b6a1-41b6-adc3-34a554218cd4)
-
----
-
 ## About Abu Sayed
 
 Abu Sayed is a multi-disciplinary creator, musician, and developer.
