@@ -1,6 +1,6 @@
 # Ana Baheb El Hayah
 
-![Ana Baheb El Hayah feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/ana-baheb-el-hayah/feature/20260422164323-ChatGPT-Image-Apr-22-2026-10_41_50-PM.png)
+![Ana Baheb El Hayah feature image](https://raw.githubusercontent.com/ImAbuSayed/abu-sayed-song-media/main/songs/ana-baheb-el-hayah/feature/20260504173215-Ana-Baheb-El-Hayah.min.webp)
 
 ---
 
@@ -16,6 +16,7 @@
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
 | Lyric Writing Date | April 20, 2026 |
 | Song Creation Date | April 22, 2026 |
+| Official Release Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-baheb-el-hayah/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -31,6 +32,13 @@
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
+
+---
+
+## Song Links
+
+- [Website](https://abusayed.com.bd/projects/ana-baheb-el-hayah/)
+- [YouTube](https://www.youtube.com/watch?v=x1l8Q-ELtVU)
 
 ---
 
