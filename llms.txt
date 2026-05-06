@@ -19,7 +19,7 @@
 | Official Release Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-baheb-el-hayah/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Ana Baheb El Hayah](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=x1l8Q-ELtVU?https://imabusayed.github.io/ana-baheb-el-hayah/) |
+| Get License | [Secure Licensing Rights for Ana Baheb El Hayah](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=x1l8Q-ELtVU?https://imabusayed.github.io/ana-baheb-el-hayah/) |
 | Artist | Abu Sayed |
 
 ---
